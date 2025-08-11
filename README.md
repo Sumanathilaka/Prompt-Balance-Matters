@@ -64,5 +64,3 @@ If you use this code, please cite:
 For questions, please contact:
 **Deshan Sumanathilaka** – [t.g.d.sumanathilaka@swansea.ac.uk](mailto:t.g.d.sumanathilaka@swansea.ac.uk)
 
-
-If you’d like, I can also create a **shorter, cleaner “user-friendly” README** for public release while keeping this detailed one for research use. That could help balance technical completeness with broader readability. Would you like me to do that?
